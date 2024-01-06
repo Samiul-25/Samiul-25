@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Samiul Alim
 #### A Curious Learner | Web Developer
-![A Curious Learner | Web Developer](https://avatars.githubusercontent.com/u/53310538?v=4)
 
 An enthusiastic and detail-oriented Junior Frontend Developer with 
 proficient knowledge in HTML.CSS and JavaScript as well as third-party libraries such as jQuery and React. Seeking to utilize my technical skills and expertise to provide value to the employer and contribute to successful projects both today and in the future. Aiming to take on new challenges and utilize my coding and debugging skills for developing new features and enhance the overall user experience.
